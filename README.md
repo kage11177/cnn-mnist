@@ -1,2 +1,2 @@
 # cnn-mnist
-Test on recognising mnist using cnn
+Test about recognising mnist using cnn
